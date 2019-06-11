@@ -1,0 +1,219 @@
+        *{
+			margin:0;border:0;padding:0;
+		}
+		body{
+			color: #E6E6FA；
+			font: 12px;
+		}
+		#css{
+			margin-top: 20px;
+			background: #6cf;
+			margin: 0 auto;
+			width: 1500px
+		}
+		#header{
+			background: #C0C0C0;
+			height: 150px;
+			margin-bottom: 5px;
+		}
+		#daohang{
+			background: #5F9EA0;
+			float: left;
+			height: 1000px;
+			width: 200px;
+			margin-left: 10px;
+		}
+		#context{
+			/*background: red;*/
+			float: left;
+			/*height: 1000px;*/
+			width: 1280px;
+
+		}
+		#cart{
+			/*background: yellow;*/
+			_height: 850px;
+			min-height:850px 
+
+
+		}
+		#cartItem{
+			height: 30px;
+			border-top:1px solid #000;border-bottom:1px solid #000;
+			width: 1250px;
+			margin: 0px auto;
+			border-radius: 20px;
+
+		}
+		.dd{
+			height: 150px;
+			background-color: #0099CC;
+			width: 1250px;
+			margin: 10px auto;
+			border-radius: 20px;
+		}
+		.bookimg{
+			width: 200px;
+			text-align: center;
+			float: left;
+		}
+		.bookname{
+			width: 400px;
+			text-align: center;
+			line-height:150px;
+			float: left;
+		}
+		.booknum{
+			width: 200px;
+			text-align: center;
+			line-height:150px;
+			float: left;
+		}
+		.bookprice{
+			width: 200px;
+			text-align: center;
+			line-height:150px;
+			float: left;
+		}
+		.bookset{
+			width: 250px;
+			text-align: center;
+			line-height:150px;
+			float: left;
+			
+		}
+		
+		#but{
+			width: 150px;
+			height: 40px;
+			border: 1px solid #3762bc;
+			border-radius: 5px;  
+			background-color:#6666FF;
+
+		}
+		
+		#jiesuan{
+			/*background: #ccc;*/
+			height: 80px;
+		}
+		#but2{
+			width: 200px;
+			height: 80px;
+			border: 1px solid #3762bc;
+			border-radius: 5px;  
+			font-size: 30px;
+			background-color:#6666FF;
+
+		}
+		#footer{
+			background: #7cf;
+			height: 100px;
+			margin-top: 10px;
+			clear: both;
+		}
+
+		#photo{
+			height: 150px;
+			width: 150px;
+			background: yellow;
+		}
+		#bookinfo{
+			height: 350px;
+			width: 400px;
+			/*background: yellow;*/
+			float: left;
+		}
+		.but{   
+
+            width: 150px;   
+            display: block;   
+            background-color: #4a77d4;   
+            border: 1px solid #3762bc;   
+            color: #fff;   
+            padding: 9px 14px;   
+            font-size: 15px;   
+            border-radius: 5px;   
+            margin: 15px auto;   
+        }
+		
+		#login{
+			/*background: blue;*/
+			height: 30px;
+		}
+		#bookimg{
+			margin-left:10px;width: 180px;height: 250px;background: blue;
+			overflow:hidden
+		}
+		a{
+			display: inline-block;
+			height: 40px;
+			font-size: 20px;
+			text-align: center;
+			line-height: 30px;
+			text-decoration:none;
+		}
+		#order{
+			_height: 850px;
+			min-height:850px 
+		}
+		#orderItemName{
+			height: 30px;
+			border-top:1px solid #000;border-bottom:1px solid #000;
+			width: 1250px;
+			margin: 0px auto;
+			border-radius: 20px;
+		}
+		.ordertable{
+			height: 150px;
+			background-color: #0099CC;
+			width: 1250px;
+			margin: 10px auto;
+			border-radius: 20px;
+			display: table;
+		}
+		.orderNumber{
+			width: 200px;
+			line-height:150px;
+			float: left;
+		}
+		.orderDate{
+			width: 200px;
+			text-align: center;
+			line-height:150px;
+			float: left;
+		}
+		.orderMessage{
+			width: 300px;
+			height: 150px;
+			float: left;
+			display: table;
+			margin: 0 auto;
+		}
+		.orderMessage p{
+			display: table-cell;
+			vertical-align: middle;
+			text-align: center;
+		}
+		.orderPrice{
+			width: 200px;
+			text-align: center;
+			line-height:150px;
+			float: left;
+		}
+		.orderHome{
+			width: 300px;
+			height: 150px;
+			/*line-height:150px;*/
+			float: left;
+			display: table;
+			margin: 0 auto;
+			
+		}
+		.orderHome p{
+			display: table-cell;
+			vertical-align: middle;
+			text-align: center;
+		}
+
+
+
